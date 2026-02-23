@@ -1,0 +1,26 @@
+{
+  "name": "three-body-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Puleesha/Three-Body-Simulator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Puleesha/Three-Body-Simulator/issues"
+  },
+  "homepage": "https://github.com/Puleesha/Three-Body-Simulator#readme",
+  "dependencies": {
+    "three": "^0.183.1",
+    "vite": "^7.3.1"
+  }
+}
